@@ -1,7 +1,7 @@
 {
-  "name": "tktk-module-name",
+  "name": "understanding-agents-capabilities",
   "version": "1.0.0",
-  "description": "",
+  "description": "Understanding AI Agents and Their Capabilities",
   "scripts": {
     "mdv": "node md-validate.js"
   },

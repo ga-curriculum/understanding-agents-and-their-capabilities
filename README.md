@@ -1,21 +1,29 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Understanding Agents and Their Capabilities</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+This module shifts your perspective from using AI as a responsive tool to architecting it as an autonomous system. You'll learn the fundamental difference between Large Language Models and AI Agents, explore their core components, and understand how they think and act to achieve goals independently.
+
+### Learning Objectives
+By the end of this session, learners will be able to:
+
+- **Distinguish** between LLMs and AI agents, understanding the shift from conversationalist to autonomous actor.
+- **Identify** and **analyze** the four core components of AI agents: brain, memory, tools, and perception.
+- **Explain** the ReAct framework and how agents use Thought-Action-Observation loops for reasoning.
+- **Evaluate** different levels of agent autonomy and match them to appropriate business scenarios.
+- **Recognize** common failure modes and risk factors in agent deployment.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills to cover                |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills to cover                |
-| **Total content**                                   | -- |                                     |
+| [From LLMs to Agents](./microlesson-01/README.md) | 20 min | Understand the shift from responsive AI to autonomous agents and their core architecture. |
+| [How Agents Think](./microlesson-02/README.md) | 20 min | Master the ReAct framework and agent reasoning patterns. |
+| [Spectrum of Autonomy](./microlesson-03/README.md) | 20 min | Evaluate different agent types and their business applications. |
+| **Total content** | ~60 min | Comprehensive foundation for agentic AI systems. |
 
 ## References
 
@@ -25,9 +33,9 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- Basic understanding of Large Language Models
+- Familiarity with API concepts
+- General knowledge of business process automation
 
 ### Starter code
 
@@ -50,7 +58,7 @@ tktk If there is not a deployed site related to this module this section and all
 ### Course landing pages
 
 - [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/tktk-module-name/canvas-landing-pages/fallback.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/understanding-agents-capabilities/canvas-landing-pages/fallback.html)
 
 ### Resources
 
