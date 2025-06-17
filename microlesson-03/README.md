@@ -25,7 +25,7 @@ graph LR
 ### Simple Reflex Agent
 **How it works**: Acts on predefined if-then rules based only on the current situation.
 
-**Business Vignette**: Email Router - If an email subject contains "Invoice," forward it to the billing department.
+**Business Example**: Email Router - If an email subject contains "Invoice," forward it to the billing department.
 
 **Risk & Cost**: Low Risk / Low Cost - Simple to build and predictable, but cannot handle any variation or nuance.
 
@@ -34,7 +34,7 @@ graph LR
 ### Model-Based Reflex Agent
 **How it works**: Maintains an internal model of the world to handle partially observable situations.
 
-**Business Vignette**: Smart Thermostat - Adjusts the temperature based not just on the current reading, but also on the time of day and recent user adjustments.
+**Business Example**: Smart Thermostat - Adjusts the temperature based not just on the current reading, but also on the time of day and recent user adjustments.
 
 **Risk & Cost**: Low-to-Medium Risk / Cost - More adaptable than a simple reflex agent, but its "worldview" can become outdated.
 
@@ -43,7 +43,7 @@ graph LR
 ### Goal-Based Agent
 **How it works**: Plans a sequence of actions to achieve a specific, predefined goal.
 
-**Business Vignette**: GPS Navigation - Calculates the best route from A to B. Its single goal is to reach the destination.
+**Business Example**: GPS Navigation - Calculates the best route from A to B. Its single goal is to reach the destination.
 
 **Risk & Cost**: Medium Risk / Cost - Effective for clear objectives, but inflexible if the goal changes or has competing priorities.
 
@@ -52,7 +52,7 @@ graph LR
 ### Utility-Based Agent
 **How it works**: Chooses the action that maximizes an overall "utility" function, balancing multiple factors like cost, speed, and success probability.
 
-**Business Vignette**: Portfolio Rebalancer - Decides whether to buy or sell stocks by weighing potential gains against market risk, transaction fees, and tax implications.
+**Business Example**: Portfolio Rebalancer - Decides whether to buy or sell stocks by weighing potential gains against market risk, transaction fees, and tax implications.
 
 **Risk & Cost**: High Risk / High Cost - Most powerful and flexible, but defining an accurate utility function is complex and a flawed function can lead to highly suboptimal outcomes.
 
