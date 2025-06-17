@@ -14,7 +14,7 @@ repo {
   // This name is shown in the header nav to navigate users home
   friendlyName = "Understanding Agents and Their Capabilities"
   // This must match the repo name as it appears on GitHub exactly
-  name = "understanding-agents-capabilities"
+  name = "Understanding-Agents-and-Their-Capabilities"
   type = "Lesson"
 }
 
